@@ -1,0 +1,1 @@
+-e#!/bin/bash\nchmod 114 hello
