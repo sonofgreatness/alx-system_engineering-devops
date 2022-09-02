@@ -1,1 +1,3 @@
-#!/bin/bash\n su betty\n
+#!/bin/bash
+su betty
+
