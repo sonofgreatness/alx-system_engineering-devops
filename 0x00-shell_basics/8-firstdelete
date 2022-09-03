@@ -1,2 +1,1 @@
-#!/bin/bash
-rm -r /tmp/my_first_directory/betty
+- e #!/bin/bash\nrm -r  /tmp/my_first_directory/betty
